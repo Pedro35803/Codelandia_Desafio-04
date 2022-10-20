@@ -9,6 +9,6 @@ Link de convite para a comunidade Codelândia (Discord): [https://discord.gg/wNC
 
 ## Modificações feitas
 
-Decidi fazer além do que planejado para o desafio, então mais uma parte para o cadastro, algum bem simples aqui.
+Decidi fazer além do que planejado para o desafio, criei mais uma seção para o cadastro, algum bem simples.
 
-Em um repositorio a parte, criei o mesmo frontEnd, e adicionei uma pagina para mostrar os dados do usuario, seguindo o mesmo designer daqui. Além de criar um backEnd com conexão ao banco de dados Postgresql, ao qual infelizmente não fiz com que viesse ao ar, por conta do fato de não ter como esconder alguns dados, algum que tinha meu interesse, mas se quiser usar para testar essa versão funcional acesse o repositorio (aqui)[https://github.com/Pedro35803/Login.py] e siga o passo a passo proposto no readMe.md
+Em um repositorio a parte, criei o mesmo frontEnd, e adicionei uma pagina para demostrar os dados do usuario, após estar logado, seguindo o mesmo designer proposto aqui. Além de criar um backEnd com conexão ao banco de dados Postgresql, se houver interesse em usar e testar essa versão funcional acesse o repositorio (aqui)[https://github.com/Pedro35803/Login.py] e siga o passo a passo proposto no readMe.md
